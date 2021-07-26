@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg917"
+   width="900"
+   height="180"
+   viewBox="0 0 900 180">
+  <metadata
+     id="metadata923">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs921" />
+  <g
+     id="g925">
+    <path
+       style="fill:#008000;stroke:#00ff00;stroke-width:0"
+       d=""
+       id="path933" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:151.271px;line-height:1.25;font-family:Purisa;-inkscape-font-specification:Purisa;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.78179"
+       x="-1.3919486"
+       y="146.82631"
+       id="text947"><tspan
+         id="tspan945"
+         x="-1.3919486"
+         y="146.82631"
+         style="stroke-width:3.78179"> HOGO.me  </tspan></text>
+  </g>
+</svg>

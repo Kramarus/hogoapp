@@ -323,7 +323,7 @@ section {
 
  .browser-mockup {
     position: absolute;
-    top: -20vh;
+    top: -65%;
     border-top: 2em solid rgba(230, 230, 230, 0.7);
     box-shadow: 0 0.1em 1em 0 rgba(0, 0, 0, 0.2);
     position: absolute;
@@ -373,6 +373,10 @@ section {
 
 .relative {
     position: relative;
+}
+
+.absolute {
+    position: absolute;
 }
 
 .bottom {

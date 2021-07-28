@@ -1,11 +1,7 @@
-window.addEventListener('scroll', function(){
-    var navbar = document.querySelector('nav');
-    navbar.classList.toggle('has-background-white', window.scrollY > 40);
-});
 
 window.addEventListener('scroll', function(){
     var navbar = document.querySelector('nav');
-    navbar.classList.toggle('bottom-border', window.scrollY > 0);
+    navbar.classList.toggle('bottom-border has-background-white', window.scrollY > 0);
 });
 
 const langmenu = document.getElementById('language-dropdown');

@@ -137,33 +137,50 @@ section {
 }
 
 
-.cta-blue {
+
+
+/*Color schemes*/
+
+.cta-primary {
     background-color: #175fff;
     color: white;
     width: 100%;
     border: none;
     font-weight: 500;
-    
 }
 
-.cta-blue:hover {
+.cta-primary:hover {
     background-color: #1043b2;
     color: #ecf2ff;
 }
 
+.bg-orange {
+    background-color: #fd810b
+}
+
+/*Color schemes*/
+
+.bg-girl {
+    background-image: url(img/);
+}
+
+
+
 .try-it {
-    background-color: #1043b2;
+    background-color: rgba(72, 107, 249, 1);
     color: white;
 }
 
 .try-it button {
     background-color: white;
-    color: #1043b2;
+    color: #175fff;
 }
 
 .weight-500 {
     font-weight: 500;
 }
+
+
 
 
 /*Custom color schemes
@@ -235,7 +252,7 @@ section {
     transform: translate(-50%, -50%) rotate(0deg);
     width: 240px;
     height: calc(240px * 2.09);
-    background: black;
+    background: #ecf2ff;
     border-radius: calc(5vh * .3);
     transition: .5s;
     z-index: 1;
@@ -554,10 +571,11 @@ hr{
 
 }
 
-.pricing-middle .box-body {
+.pricing-middle .pricing-plan {
     position: relative;
     border-left: 1px solid #eee;
     border-right: 1px solid #eee;
+    box-shadow: rgba(45, 50, 64, 10);
 }
 
 .pricing-plan button {
@@ -748,7 +766,6 @@ hr{
 .accordion-item {
     border-bottom: 1px solid #eee;
     color: black;
-    margin: 1rem 0;
    
     
 }
@@ -792,6 +809,10 @@ hr{
 
 .bg-grey {
     background-color: #f7f8fa;
+}
+
+.text-grey {
+    color: #ccc;
 }
 
 .social-media li {
